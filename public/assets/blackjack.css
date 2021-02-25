@@ -1,0 +1,55 @@
+.card {
+    border: 1px solid;
+    font-size: 28px;
+    margin: 5px;
+}
+
+.table {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    text-align: center;
+    background-color: #028319;
+}
+.player {
+   text-align: center;
+}
+.winner {
+    padding: 50px;
+    color: wheat;
+}
+
+.button-hit {
+    background-color: #d90909; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 20px;
+}
+.button-stand {
+    background-color: #000000; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 20px;
+}
+
+.button-new-round {
+    background-color: #d90909; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 20px;
+}
