@@ -1,7 +1,7 @@
-#Laravel - Classic Blackjack 
+# Laravel - Classic Blackjack 
 Session based classic blackjack game. Developed wit Laravel. 
 
-#Installation
+# Installation
 ```bash
 git clone git@github.com:oguzhanT/ogi-blackjack.git
 
@@ -10,7 +10,7 @@ cd ogi-blackjack
 composer install
 ```
 
-#Config
+# Config
 
 Single player game (Player_1 vs Dealer)
 
@@ -26,8 +26,8 @@ Game restarts if deck size is less than 50%
 
 Have 3 action.
 
-*Hit
+* Hit
 
-*Stand
+* Stand
 
-*New Round
+* New Round
