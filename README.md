@@ -22,7 +22,7 @@ Each deck have 52 card.
 
 Game restarts if deck size is less than 50%
 
-#Actions
+# Actions
 
 Have 3 action.
 
